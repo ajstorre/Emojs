@@ -1840,7 +1840,7 @@ All emojis names are without *spaces*, *dash*, *accents*, or any *special charac
 - flagscotland: 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 - flagwales: 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
-##License
+## License
 MIT License
 
 Copyright (c) 2022 Ajstorre
