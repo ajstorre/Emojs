@@ -1,7 +1,7 @@
 /*########################
     emojs by ajstorre
 ########################*/
-
+ 
 var emojs = {
     grinningface: "😀",
     grinningfacewithbigeyes: "😃",
