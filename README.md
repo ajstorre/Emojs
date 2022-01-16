@@ -1,5 +1,5 @@
 # Emojs
-📚 A small library that enable writing emojis with their names.
+😉 A small library that enable writing emojis with their names.
 
 ## How to use
 **👨‍🔧 Installation**
